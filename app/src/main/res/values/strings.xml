@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="opendrawer">open</string>
+    <string name="closedrawer">close</string>
+
+</resources>
